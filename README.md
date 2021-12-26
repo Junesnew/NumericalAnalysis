@@ -1,5 +1,5 @@
 # NumericalAnalysis
-华科数值分析
+HUST数值分析
 
 这个仓库主要任务是：
 
